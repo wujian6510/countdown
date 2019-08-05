@@ -1,0 +1,22 @@
+$bodyBg:#1F2C4F;
+@function rem($n){
+  @return ($n/100)+rem;
+}
+
+$fontFamily:Tahoma,"Microsoft YaHei","SimHei",sans-serif;
+$fontSize: rem(16);
+$fontColorBase: #fff;
+
+$brandPrimary: #6568CD;
+$brandWarning: #FFDCB4;
+$brandStrong: #ffd300;
+
+
+
+$borderColor: #6568CD;
+
+$chartColorLv1: #3199FF;
+$chartColorLv2: #4DDBFF;
+$chartColorLv3: #50E3C2;
+$chartColorLv4: #B8E886;
+$chartColorLv5: #AA99FF;

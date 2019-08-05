@@ -1,0 +1,44 @@
+/* Colors
+-------------------------- */
+$--color-primary: #ff8201;
+$--color-success: #43b14e;
+$--color-warning: #e6a23c;
+$--color-danger: #ea3f2b;
+
+$--color-text-primary: #151413;
+$--color-text-regular: #4a4846;
+$--color-text-secondary: #9c9996;
+
+/* Font
+-------------------------- */
+$--font-size-base: 12px;
+$--font-size-small: 12px;
+$--font-size-large: 18px;
+$--font-weight-primary: 400;
+
+/* Border
+-------------------------- */
+$--border-radius-base: 2px;
+
+/* Checkbox
+-------------------------- */
+$--checkbox-font-size: 12px;
+
+/* Radio
+-------------------------- */
+$--radio-font-size: 12px;
+
+/* Button
+-------------------------- */
+$--button-small-border-radius: 2px;
+
+$--button-mini-padding-vertical: 5px;
+$--button-mini-padding-horizontal: 10px;
+$--button-mini-border-radius: 2px;
+
+
+/* 自定义
+-------------------------- */
+
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+@import "~element-ui/packages/theme-chalk/src/index";
