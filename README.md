@@ -1,4 +1,6 @@
-# big-screen
+# 利用CSS3实现一个简单的倒计时
+ 
+[效果预览](https://wujian6510.github.io/countdown/dist/index.html).
 
 ## Project setup
 ```
